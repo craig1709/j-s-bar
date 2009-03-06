@@ -1,0 +1,22 @@
+table.admin {
+	border: 1px solid #000;
+	border-collapse: collapse;
+	width: 100%;
+}
+
+table.admin th {
+	background-color: #9cf;
+	text-align: left;
+}
+
+table.admin td {
+	background-color: #cf9;
+}
+
+table.admin td, th {
+	padding: .5em;
+}
+
+table.admin td.description {
+	font-style: italic;
+}

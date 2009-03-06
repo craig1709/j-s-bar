@@ -1,0 +1,23 @@
+#submenu {
+	float: left;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+#submenu li {
+	margin: 1em 1em;
+}
+
+#submenu a {
+	color: #fff;
+	font-size: 1em;
+	padding: 0 0 0 8px;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+#submenu a:hover, #submenu a.current {
+	border-left: 4px solid #fff;
+	padding: 0 0 0 4px;
+}

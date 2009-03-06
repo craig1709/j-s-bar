@@ -1,0 +1,22 @@
+.album a {
+	color: #000;
+	text-decoration: none;
+}
+
+.album {
+	background-color: #fff;
+	color: #000;
+	float: left;
+	font-weight: bold;
+	padding: 4px 0 4px 0;
+	margin: 0 4px 4px 0;
+	text-align: center;
+	width: 136px;
+}
+
+.album img {
+	border: 0;
+	display: block;
+	padding: 0 0 4px 0;
+	margin: 0 auto;
+}

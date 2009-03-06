@@ -1,0 +1,7 @@
+#wrapper {
+	background: transparent url('/images/bg_blackboard.png') scroll repeat-y top center;
+	margin: 0 auto;
+	padding: 0 29px;
+	min-height: 100%;
+	width: 960px;
+}

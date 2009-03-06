@@ -1,0 +1,18 @@
+#about {
+	float: left;
+	width: 70%;
+}
+
+#opening-times {
+	float: right;
+	width: 25%;
+}
+
+#opening-times table {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+#opening-times td {
+	padding: 0;
+}

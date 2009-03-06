@@ -1,0 +1,75 @@
+body, html {
+	background-color: #eec;
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0 0 1em 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: normal;
+}
+
+h1 {
+	margin: 0 0 .25em 0;
+	padding: .25em 0 0 0;
+}
+
+h1 img {
+	border: 0;
+	vertical-align: middle;
+}
+
+a img {
+	border: 0;
+	margin: 0 .25em 0 0;
+	vertical-align: middle;
+}
+
+a.add {
+	color: #00f;
+	text-decoration: none;
+}
+
+a.add:hover, a.edit_title:hover {
+	border-bottom: 1px solid #00f;
+}
+
+a.edit_title {
+	color: #00f;
+	font-size: .8em;
+	text-decoration: none;
+}
+
+label {
+	display: block;
+	float: left;
+	width: 12em;
+}
+
+input[type=text], input[type=password], select, #content textarea {
+	padding: 0;
+	font-family: Arial, sans-serif;
+	font-size: 1em;
+	width: 18em;
+}
+
+textarea#html {
+	width: 900px;
+}
+
+#content {
+	padding: 0 1em;
+}
+
+#header {
+	border-bottom: 4px solid #000;
+	background-color: #9cf;
+	padding: 0 0 0 1em;
+}
+
+.warning {
+	font-weight: bold;
+	font-size: small;
+	color: #c00;
+	text-transform: uppercase;
+}

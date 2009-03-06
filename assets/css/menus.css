@@ -1,0 +1,26 @@
+.menu h2 {
+	text-align: left;
+}
+
+.menu {
+	list-style-type: none;
+	margin: 0 0 0 1em;
+	padding: 0;
+	text-align: left;
+}
+
+.menu li {
+	margin: .75em 0 0 0;
+}
+
+.menu h3 {
+	font-family: Georgia, serif;
+	font-style: italic;
+	padding: 0;
+	margin: 1em 0 1em -1em;
+}
+
+.description {
+	font-style: italic;
+	margin: 0 0 0 1em;
+}

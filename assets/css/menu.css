@@ -1,0 +1,22 @@
+#menu {
+	list-style-type: none;
+	margin: 0 0 1.5em 0;
+	padding: 0;
+}
+
+#menu li {
+	display: inline;
+	margin: 0 1em;
+}
+
+#menu a {
+	color: #fff;
+	font-size: 1em;
+	padding: 0 0 .5em 0;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+#menu a:hover, #menu a.current {
+	border-bottom: 4px solid #fff;
+}
